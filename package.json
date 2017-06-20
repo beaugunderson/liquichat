@@ -1,0 +1,17 @@
+{
+  "name": "liquichat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beau Gunderson <beau@beaugunderson.com> (https://beaugunderson.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "color-hash": "^1.0.3",
+    "moment": "^2.18.1",
+    "signalr-client": "0.0.17",
+    "term-true-color": "^2.0.1"
+  }
+}
